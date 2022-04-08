@@ -23,21 +23,22 @@
   <a href="#license-memo">License</a>
 </p>
 
-
-
-## Project :star2:
-
-This repo contains an UI clone from Tesla homepage.
-
+##
 
 <p align="center">
-  <img src="src\assets\img\tesla-1.gif"/>
+  <img src="https://github.com/leoronne/tesla-homepage-ui-clone/blob/master/src/assets/img/banner.png"/>
 </p>
 
 <br>
 
+## Project :star2:
+
+This repo contains an UI clone from Tesla Mobile Homepage.
+
+<br>
+
 <p align="center">
-  <img src="src\assets\img\tesla-2.gif"/>
+  <img src="https://github.com/leoronne/tesla-homepage-ui-clone/blob/master/src/assets/img/tesla-2.gif"/>
 </p>
 
 <br>
@@ -53,7 +54,7 @@ This repo contains an UI clone from Tesla homepage.
 
 ## Installation :wrench:
 
-First you need to clone the project using `git clone https://github.com/leoronne/tesla-homepage-ui-clone.git`.
+First you need to clone the project using `git clone https://github.com/paritosh921/Tesla-App-Clone.git`.
 
 You can install the application using `npm install` or `yarn install` on the root dir.
 
